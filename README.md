@@ -86,8 +86,8 @@ The Neural Network architecture consists of:
 
 | Experiment | Activation Function | Accuracy |
 |---|---|---|
-| Experiment 1 | ReLU | 93.30% |
-| Experiment 2 | Tanh | 81.55% |
+| Experiment 1 | ReLU | 91.55% |
+| Experiment 2 | Tanh | 76.80% |
 
 ---
 
